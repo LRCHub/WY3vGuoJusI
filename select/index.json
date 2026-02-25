@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "platinum",
+  "base_artist": "garnet",
+  "createdAt": "2026-02-25T11:05:39.430376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Platinum",
+      "artist": "YACHT & Bobby Birdman",
+      "has_synced": false,
+      "path": "select/01_Platinum_YACHT_&_Bobby_Birdman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Platinum (Feat. Bobby Birdman)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/02_Platinum_(Feat._Bobby_Birdman)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Platinum Blonde Life",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/03_Platinum_Blonde_Life_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Guitar (Can't Keep From Crying) - Platinum Weird Version / Bonus Track",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/04_This_Guitar_(Can't_Keep_From_Crying)_-_Platinum_Weird_Version___Bonus_Track_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Guitar (Can't Keep From Crying) (Platinum Weird version)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/05_This_Guitar_(Can't_Keep_From_Crying)_(Platinum_Weird_version)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Platinum (Featuring Bobby Birdman)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/06_Platinum_(Featuring_Bobby_Birdman)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Platinum Cookies",
+      "artist": "Babyfather",
+      "has_synced": false,
+      "path": "select/07_Platinum_Cookies_Babyfather.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Platinum And Wood",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/08_Platinum_And_Wood_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Platinum and Wood",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/09_Platinum_and_Wood_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Platinum Falcon",
+      "artist": "Guapdad 4000",
+      "has_synced": true,
+      "path": "select/10_Platinum_Falcon_Guapdad_4000.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Platinum Falcon",
+      "artist": "Guapdad 4000",
+      "has_synced": false,
+      "path": "select/11_Platinum_Falcon_Guapdad_4000.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spanish Platinum",
+      "artist": "Gayngs",
+      "has_synced": true,
+      "path": "select/12_Spanish_Platinum_Gayngs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Platinum",
+      "artist": "Orgy",
+      "has_synced": true,
+      "path": "select/13_Platinum_Orgy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "platinum",
+      "artist": "garnet",
+      "has_synced": false,
+      "path": "select/pl_01_platinum_garnet.txt"
+    }
+  ]
+}
